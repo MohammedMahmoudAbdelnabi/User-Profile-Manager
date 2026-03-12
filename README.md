@@ -1,4 +1,4 @@
-# Profile Manager 👤
+# User Profile Manager 👤
 
 A simple JavaScript project that demonstrates how to work with Objects.
 
